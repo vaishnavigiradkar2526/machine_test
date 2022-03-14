@@ -147,7 +147,6 @@ button{
     </div>
     <form action="login_action.php" method="post">
 
-        <a href="../" style="color:black;">back</a>
         <h3>Login Here</h3>
         <div style="color:red" class="">
                     <!-- username and password is incorrect -->
